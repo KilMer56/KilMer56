@@ -19,7 +19,7 @@
 </p>
 
 <h2 align="center">Personal Stuffs</h2>
-<p align="center">🔭 I’m looking for a FullStack Engineer position in Amsterdam</p>
+<p align="center">🔭 I’m looking for a FullStack/Front-end Engineer position in Amsterdam</p>
 <p align="center">💻 I’m currently working on a personal project (Flutter App)</p>
 <p align="center">♟️ I’m actually learning how to play Chess</p>
 <p align="center">📽️ I have a passion about Video Editing and Graphic Design</p>
