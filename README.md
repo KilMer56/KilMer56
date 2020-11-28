@@ -11,6 +11,7 @@
 <p align="center">
     <img alt="VueJs" src="https://img.shields.io/badge/-Vue.js-13aa52?style=flat-square&logo=vue.js&logoColor=white" />
     <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+    <img alt="NestJs" src="https://img.shields.io/badge/-NestJs-ea2845?style=flat-square&logo=nestjs&logoColor=white" />
     <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
     <img alt="Python" src="https://img.shields.io/badge/-Python-F9A03C?style=flat-square&logo=python&logoColor=white" />
     <img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white" />
@@ -25,5 +26,5 @@
 <p align="center">📽️ I have a passion about Video Editing and Graphic Design</p>
 
 <h2 align="center">Where to find me</h2>
-<p align="center"><a href="https://www.killianmer.com/" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-12c2e9.svg?&style=for-the-badge" /></a> <a href="https://www.killianmer.com/static/media/Killian_MER_CV.9a8f9fcf.pdf" target="_blank"><img alt="Resume" src="https://img.shields.io/badge/resume-9686EC.svg?&style=for-the-badge" /></a> <a href="https://www.linkedin.com/in/killianmer/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-D467BE.svg?&style=for-the-badge" /></a> <img alt="Medium (Coming soon)" src="https://img.shields.io/badge/medium_(soon)-F1536A.svg?&style=for-the-badge" /></a>
+<p align="center"><a href="https://www.killianmer.com/" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-12c2e9.svg?&style=for-the-badge" /></a> <a href="https://www.linkedin.com/in/killianmer/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-D467BE.svg?&style=for-the-badge" /></a> <img alt="Medium (Coming soon)" src="https://img.shields.io/badge/medium_(soon)-F1536A.svg?&style=for-the-badge" /></a>
 </p>
